@@ -1,8 +1,6 @@
 
 #Simple Streamlit web app for iris flower prediction by sepal & petal length and width
 
-#If u dont hv the following libraries please install it by type the command
-# Pip Install Streamlit,pandas sklearn 
 
 import streamlit as st
 import pandas as pd
